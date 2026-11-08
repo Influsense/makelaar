@@ -1,2 +1,1 @@
-# Van Makelaar naar Regisseur
-V1.0 website
+Replace placeholder txt files with actual PNG files named Visual 1.png, Visual 2.png, Visual 3.png
