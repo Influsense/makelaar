@@ -1,2 +1,2 @@
 # Van Makelaar naar Regisseur
-Publicatieklare single-page website.
+V1.0 website
